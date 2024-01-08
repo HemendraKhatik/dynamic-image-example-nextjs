@@ -6,7 +6,6 @@ export const size = {
   height: 256,
 };
 
-
 export default async function Image({ params }: { params: { name: string } }) {
   return new ImageResponse(<PreviewImage name={params.name} />);
 }
