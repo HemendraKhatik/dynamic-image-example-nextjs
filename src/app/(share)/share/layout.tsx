@@ -10,7 +10,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Mistletoe and Missing You | Suno</title>
+        <title>Mistletoe and Missing You | Suno sh</title>
         <meta
           name="description"
           content="pop acoustic song. Listen and make your own with Suno."
@@ -61,7 +61,7 @@ export default function RootLayout({
           content="https://cdn1.suno.ai/5357415b-a202-4798-af1b-3bea6e8939bd.mp3"
         />
         <meta name="twitter:player:width" content="760" />
-        <meta name="twitter:player:height" content="240" />
+        <meta name="twitter:player:height" content="340" />
         <meta name="next-size-adjust" />
       </head>
       <body className={inter.className}>{children}</body>
