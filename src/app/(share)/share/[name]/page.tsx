@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Page() {
+function Share() {
   return (
     <div>
         <h1>Hello world</h1>
@@ -8,4 +8,4 @@ function Page() {
   )
 }
 
-export default Page
+export default Share
